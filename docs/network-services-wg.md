@@ -37,7 +37,7 @@ See the [RCN meeting calendar](https://bit.ly/4xngeHr) for upcoming meetings.
 | Pacific (PT) | 8:00 AM |
 | Eastern (ET) | 11:00 PM |
 | UTC | 15:00 |
-| Central European (CEST) | 17:00 PM |
+| Central European (CET) | 16:00 PM |
 | Japan (JST) | 12:00 AM (October 23) |
 | Australia Eastern (AEST) | 1:00 AM (October 23) |
 
